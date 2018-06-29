@@ -1,5 +1,5 @@
 # AdmissionTest1
-Admission test
+Admission test mode on Nov/2016 in 48 hrs
 
 Criar um método em .NET com a seguinte assinatura:
 
