@@ -1,5 +1,5 @@
 # AdmissionTest1
-Admission test mode on Nov/2016 in 48 hrs
+Admission test made on Nov/2016 and SLA of 48 hrs
 
 Criar um método em .NET com a seguinte assinatura:
 
